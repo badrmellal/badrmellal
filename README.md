@@ -85,9 +85,10 @@ Computer Vision Engineer • Machine Learning • RAG + RLHF • Cloud & Embedde
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=badrmellal&show_icons=true&theme=default" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badrmellal&layout=compact" />
+  <img height="170" src="https://github-readme-stats-salesp07.vercel.app/api?username=badrmellal&show_icons=true&theme=default" />
+  <img height="170" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=badrmellal&layout=compact" />
 </p>
+
 
 ---
 
