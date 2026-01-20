@@ -19,7 +19,6 @@ I bridge the gap between raw data and live intelligence, building AI systems fro
   </a>
 </p>
 
-<!-- 🐍 Contribution Snake -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/badrmellal/badrmellal/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 </p>
@@ -37,7 +36,7 @@ I bridge the gap between raw data and live intelligence, building AI systems fro
 
 ## Selected Projects
 
-### **Face Recognition Platform — YOLO + InsightFace**
+### **Face Recognition Platform | YOLO + InsightFace**
 - Real-time multi-camera face recognition  
 - Face quality scoring & multi-frame verification  
 - Wide-angle & low-quality camera support  
