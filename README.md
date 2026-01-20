@@ -19,33 +19,38 @@ I bridge the gap between raw data and live intelligence, building AI systems fro
   </a>
 </p>
 
+<!-- 🐍 Contribution Snake -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/badrmellal/badrmellal/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+</p>
+
 ---
 
 ## What I Do
 
-- Design **end to end AI systems**, not just models  
+- Design **end-to-end AI systems**, not just models  
 - Turn **research ideas into scalable products**  
 - Work across **Computer Vision, LLMs, RLHF, and Time-Series**  
-- Deploy models with **resource constrained environments**
+- Deploy models in **resource-constrained environments**
 
 ---
 
 ## Selected Projects
 
-### **Face Recognition Platform, YOLO + InsightFace**
-- Real time multi-camera face recognition  
+### **Face Recognition Platform — YOLO + InsightFace**
+- Real-time multi-camera face recognition  
 - Face quality scoring & multi-frame verification  
-- Wide angle & low quality camera support  
+- Wide-angle & low-quality camera support  
 - Personnel registry, alerts, and logging  
 
-**Tech:** PyTorch, YOLOv8–v11, InsightFace, OpenCV, FastAPI
+**Tech:** PyTorch, YOLOv8–v11, InsightFace, OpenCV, FastAPI  
 
 ---
 
 ### **RAG + RLHF Pipeline (Darija ↔ English)**
-- Domain specific multilingual MT system  
+- Domain-specific multilingual MT system  
 - Dense retrieval with Sentence Transformers + ChromaDB  
-- PPO based RLHF fine-tuning  
+- PPO-based RLHF fine-tuning  
 - Optimized chunking, retrieval & context injection  
 
 **Tech:** HuggingFace, LangChain, PPO, ChromaDB  
@@ -55,7 +60,7 @@ I bridge the gap between raw data and live intelligence, building AI systems fro
 ### **Product Forecasting Engine (EU & UK)**
 - Viral product detection & time-to-peak forecasting  
 - Multi-horizon forecasting with deep models  
-- Cross platform signals (Amazon, TikTok Shop, eBay, Meta Ads, etc)  
+- Cross-platform signals (Amazon, TikTok Shop, eBay, Meta Ads, etc.)  
 
 **Tech:** TFT, Transformers, LightGBM  
 
@@ -64,7 +69,7 @@ I bridge the gap between raw data and live intelligence, building AI systems fro
 ### **Shopify & Lightfunnel Integration**
 - Product syncing & sourcing automation  
 - Logistics, quotations & fulfillment tracking  
-- Wesbite generated over 1M$ last year. 
+- **Revenue impact:** platform generated **$1M+ in one year**  
 
 **Tech:** Next.js, Spring Boot  
 
@@ -73,16 +78,16 @@ I bridge the gap between raw data and live intelligence, building AI systems fro
 ### **GPS Tracking Platform (GT06)**
 - Real-time fleet monitoring system  
 - Custom protocol decoding & event parsing  
-- High throughput data ingestion  
+- High-throughput data ingestion  
 
-**Tech:** TCP servers, protocol parsing, backend systems  
+**Tech:** TCP servers, protocol-level parsing, backend systems  
 
 ---
 
 ## Core Expertise
 
 ### **Computer Vision**
-- Object detection & tracking  
+- Object detection & multi-object tracking  
 - Face recognition & quality assessment  
 - Camera calibration & distortion correction  
 - Real-time inference optimization  
@@ -91,7 +96,7 @@ I bridge the gap between raw data and live intelligence, building AI systems fro
 - RAG system design (dense + hybrid retrieval)  
 - Prompt & context optimization  
 - RLHF (reward modeling, PPO tuning)  
-- Multilingual & low resource NLP  
+- Multilingual & low-resource NLP  
 
 ### **Time-Series & Forecasting**
 - Trend detection & seasonality modeling  
@@ -101,8 +106,8 @@ I bridge the gap between raw data and live intelligence, building AI systems fro
 ### **Systems & Deployment**
 - GPU / MPS memory optimization  
 - Latency vs throughput tradeoffs  
-- Edge & cloud deployment  
-- Fault tolerant pipelines  
+- Edge, embedded & cloud deployment  
+- Fault-tolerant pipelines  
 
 ---
 
@@ -115,7 +120,7 @@ Python · C++ · Java · JavaScript · TypeScript
 PyTorch · TensorFlow · OpenCV · HuggingFace  
 
 **Backend & Cloud**  
-Node.js · SpringBoot · AWS · GCP · Docker · Nginx  
+Node.js · Spring Boot · AWS · GCP · Docker · Nginx  
 
 **Frontend**  
 Next.js · Vite · React · Tailwind CSS  
@@ -148,5 +153,4 @@ Next.js · Vite · React · Tailwind CSS
 <p align="center">
 <strong>Building AI systems that actually ship.</strong>
 </p>
-
 
