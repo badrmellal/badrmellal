@@ -1,113 +1,152 @@
-<h1 align="center">👋 Hi, I'm Badr Mellal</h1>
+<h1 align="center">Hi, I'm Badr Mellal</h1>
+
 <h3 align="center">
-Computer Vision Engineer • Machine Learning • RAG + RLHF • Cloud & Embedded Systems
+Applied AI & Computer Vision Engineer  
+<br/>
+LLMs • RAG • RLHF • Forecasting • Edge, Embedded & Cloud Systems
 </h3>
 
 <p align="center">
+I bridge the gap between raw data and live intelligence, building AI systems from the first byte to the final decision.
+</p>
+
+<p align="center">
   <a href="https://github.com/badrmellal">
-    <img src="https://komarev.com/ghpvc/?username=badrmellal&style=flat-square&color=blue" alt="profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=badrmellal&style=flat-square&color=blue" />
   </a>
   <a href="https://github.com/badrmellal?tab=followers">
-    <img src="https://img.shields.io/github/followers/badrmellal?style=social" alt="followers"/>
+    <img src="https://img.shields.io/github/followers/badrmellal?style=social" />
   </a>
 </p>
 
-<!-- 🐍 Snake contribution animation -->
+---
+
+## What I Do
+
+- Design **end to end AI systems**, not just models  
+- Turn **research ideas into scalable products**  
+- Work across **Computer Vision, LLMs, RLHF, and Time-Series**  
+- Deploy models with **resource constrained environments**
+
+---
+
+## Selected Projects
+
+### **Face Recognition Platform, YOLO + InsightFace**
+- Real time multi-camera face recognition  
+- Face quality scoring & multi-frame verification  
+- Wide angle & low quality camera support  
+- Personnel registry, alerts, and logging  
+
+**Tech:** PyTorch, YOLOv8–v11, InsightFace, OpenCV, FastAPI
+
+---
+
+### **RAG + RLHF Pipeline (Darija ↔ English)**
+- Domain specific multilingual MT system  
+- Dense retrieval with Sentence Transformers + ChromaDB  
+- PPO based RLHF fine-tuning  
+- Optimized chunking, retrieval & context injection  
+
+**Tech:** HuggingFace, LangChain, PPO, ChromaDB  
+
+---
+
+### **Product Forecasting Engine (EU & UK)**
+- Viral product detection & time-to-peak forecasting  
+- Multi-horizon forecasting with deep models  
+- Cross platform signals (Amazon, TikTok Shop, eBay, Meta Ads, etc)  
+
+**Tech:** TFT, Transformers, LightGBM  
+
+---
+
+### **Shopify & Lightfunnel Integration**
+- Product syncing & sourcing automation  
+- Logistics, quotations & fulfillment tracking  
+- Wesbite generated over 1M$ last year. 
+
+**Tech:** Next.js, Spring Boot  
+
+---
+
+### **GPS Tracking Platform (GT06)**
+- Real-time fleet monitoring system  
+- Custom protocol decoding & event parsing  
+- High throughput data ingestion  
+
+**Tech:** TCP servers, protocol parsing, backend systems  
+
+---
+
+## Core Expertise
+
+### **Computer Vision**
+- Object detection & tracking  
+- Face recognition & quality assessment  
+- Camera calibration & distortion correction  
+- Real-time inference optimization  
+
+### **LLMs & NLP**
+- RAG system design (dense + hybrid retrieval)  
+- Prompt & context optimization  
+- RLHF (reward modeling, PPO tuning)  
+- Multilingual & low resource NLP  
+
+### **Time-Series & Forecasting**
+- Trend detection & seasonality modeling  
+- Cold-start forecasting  
+- Probabilistic & multi-horizon prediction  
+
+### **Systems & Deployment**
+- GPU / MPS memory optimization  
+- Latency vs throughput tradeoffs  
+- Edge & cloud deployment  
+- Fault tolerant pipelines  
+
+---
+
+## Tech Stack
+
+**Languages**  
+Python · C++ · Java · JavaScript · TypeScript  
+
+**AI / ML**  
+PyTorch · TensorFlow · OpenCV · HuggingFace  
+
+**Backend & Cloud**  
+Node.js · SpringBoot · AWS · GCP · Docker · Nginx  
+
+**Frontend**  
+Next.js · Vite · React · Tailwind CSS  
+
+---
+
+## Currently Exploring
+- Multimodal transformers (vision + audio + text)  
+- Advanced RAG optimization & reranking  
+- Scalable forecasting across markets  
+- Real-time speech-to-text & TTS systems  
+
+---
+
+## GitHub Stats
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/badrmellal/badrmellal/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img height="160" src="https://github-readme-stats-salesp07.vercel.app/api?username=badrmellal&show_icons=true&theme=default" />
+  <img height="160" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=badrmellal&layout=compact" />
 </p>
 
 ---
 
-## 🔥 Current Projects
-
-### **1️⃣ Face Recognition System — YOLOv11 + InsightFace**
-- Multi-frame verification  
-- Quality scoring  
-- Live recognition for wide-angle cameras  
-- Personnel registry  
-- Alerts + logs  
-
-### **2️⃣ RAG + RLHF Pipeline (Darija ↔ English MT)**
-- Sentence Transformers + ChromaDB  
-- RLHF tuning with PPO  
-- Domain-specific dataset (DarijaBridge)  
-- Optimized retrieval & context injection  
-
-### **3️⃣ Product Forecasting Engine (Europe & UK)**
-- TFT, LightGBM, Transformers  
-- Data from Amazon, TikTok Shop, eBay, Shein, Meta Ads, and more  
-- Trend scoring  
-- Viral product prediction and time-to-peak forecasting  
-
-### **4️⃣ Shopify and Lightfunnel Integration for Kuai Sourcing**
-- Next.js  
-- Spring Boot backend  
-- Product syncing, logistics, quotations, fulfillment tracking  
-
-### **5️⃣ GPS Tracking Platform (GT06 Protocol)**
-- Real-time car rental fleet monitoring  
-- Custom backend  
-- GT06 packet decoding and event parsing  
+## Contact
+- **Email:** hello@badr-mellal.com  
+- **Portfolio:** https://badr-mellal.com  
 
 ---
-
-## 🛠️ Tech Stack
-
-### **Languages**
-<div>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts" />
-</div>
-
-### **Machine Learning / AI**
-<div>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-</div>
-
-- YOLO (v8–v11), DeepFace, InsightFace  
-- Transformers (HuggingFace), LSTMs, TFT  
-- RAG + ChromaDB + LangChain  
-- RLHF with PPO  
-- Speech-to-Text & Text-to-Speech (Whisper, Vosk, TTS models)  
-
-### **Backend & Cloud**
-<div>
-  <img src="https://skillicons.dev/icons?i=nodejs,firebase,aws,gcp,docker,nginx" />
-</div>
-
-### **Frontend & Tools**
-<div>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" />
-</div>
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-salesp07.vercel.app/api?username=badrmellal&show_icons=true&theme=default" />
-  <img height="170" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=badrmellal&layout=compact" />
+<strong>Building AI systems that actually ship.</strong>
 </p>
 
-
----
-
-## 🌱 Currently Learning  
-- Multimodal attention mechanisms  
-- Visual Transformers for long sequences  
-- Advanced RAG optimization and retrieval strategies  
-- Time-series forecasting for product trends using custom deep models  
-- Scaling forecasting pipelines to multi-country multi-platform datasets  
-- Efficient multimodal fusion (audio + vision + text)  
-- Speech-to-Text / Text-to-Speech for real-time applications  
-
----
-
-## 📫 Contact    
-📧 **contact@badr-mellal.com**  
-🔗 **Portfolio:** https://badr-mellal.com
-
----
-
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
 
